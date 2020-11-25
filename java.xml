@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="NovRelease">
+<test name ="Regression">
+
+<classes>
+
+<class name = "com.selenium.automationpractice.ReferenceDatasession"></class>
+
+</classes>
+
+
+</test>
+
+
+
+</suite>

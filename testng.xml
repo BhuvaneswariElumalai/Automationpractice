@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="OctRelease">
+<test name ="Regression">
+
+<classes>
+
+<class name = "com.selenium.automationpractice.TestNG_Class1"></class>
+
+</classes>
+
+
+</test>
+
+
+
+</suite>
